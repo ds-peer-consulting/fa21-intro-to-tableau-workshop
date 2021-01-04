@@ -1,10 +1,11 @@
-# Workshop Name
-By: Name1, Name2, Name3
+# Introduction to Tableau Workshop
+By: Vincent Lao, Jillian Criscuolo, Samantha Tang, and Gary Kwong
 Workshop Date: 1/1/11
 
 ## Workshop Goal(s): 
-Set up a repository structure to encourage a consistent standard for workshop creation.
-Update this to be the same as the goals in the notebook.
+1.
+2. 
+3.
 
 ## For UC Berkeley Students: [Datahub Link]()
 
