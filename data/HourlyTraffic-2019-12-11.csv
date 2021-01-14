@@ -1,0 +1,1000 @@
+﻿Date-Time,Region,Facility,Entrance,Entries,Exits
+12/11/19 12:00 AM,,,TEST,0,0
+12/11/19 12:00 AM,UC Berkeley,AHC Library,AHC Back,0,0
+12/11/19 12:00 AM,UC Berkeley,AHC Library,AHC Front,0,0
+12/11/19 12:00 AM,UC Berkeley,ANTH Library,ANTH,0,0
+12/11/19 12:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/11/19 12:00 AM,UC Berkeley,BIOS Library,VLSB1,0,0
+12/11/19 12:00 AM,UC Berkeley,BIOS Library,VLSB2,0,0
+12/11/19 12:00 AM,UC Berkeley,CHEM Library,CHEM,0,1
+12/11/19 12:00 AM,UC Berkeley,DOE Library,Doe North,1,1
+12/11/19 12:00 AM,UC Berkeley,DOE Library,Doe South,3,2
+12/11/19 12:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,182,68
+12/11/19 12:00 AM,UC Berkeley,DOE STACKS,Stacks East,5,1
+12/11/19 12:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/11/19 12:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/11/19 12:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/11/19 12:00 AM,UC Berkeley,ENGI Library,ENGI,4,71
+12/11/19 12:00 AM,UC Berkeley,ENVI Library,ENVI,3,26
+12/11/19 12:00 AM,UC Berkeley,GRDS Library,GRAD,0,0
+12/11/19 12:00 AM,UC Berkeley,HAAS Library,HAAS 2F,5,31
+12/11/19 12:00 AM,UC Berkeley,HAAS Library,HAAS 3F,2,4
+12/11/19 12:00 AM,UC Berkeley,MATH Library,MATH,0,0
+12/11/19 12:00 AM,UC Berkeley,MOFF Library,Moffit Entry,111,3
+12/11/19 12:00 AM,UC Berkeley,MOFF Library,Moffit Exit,0,211
+12/11/19 12:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,55,142
+12/11/19 12:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 12:00 AM,UC Berkeley,MUSI,MUSI,0,0
+12/11/19 12:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/11/19 12:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/11/19 12:00 AM,UC Berkeley,PHYS Library,PHYS,0,1
+12/11/19 12:00 AM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 12:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/11/19 1:00 AM,,,TEST,0,0
+12/11/19 1:00 AM,UC Berkeley,AHC Library,AHC Back,0,0
+12/11/19 1:00 AM,UC Berkeley,AHC Library,AHC Front,0,0
+12/11/19 1:00 AM,UC Berkeley,ANTH Library,ANTH,0,0
+12/11/19 1:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/11/19 1:00 AM,UC Berkeley,BIOS Library,VLSB1,0,0
+12/11/19 1:00 AM,UC Berkeley,BIOS Library,VLSB2,0,0
+12/11/19 1:00 AM,UC Berkeley,CHEM Library,CHEM,0,1
+12/11/19 1:00 AM,UC Berkeley,DOE Library,Doe North,0,0
+12/11/19 1:00 AM,UC Berkeley,DOE Library,Doe South,3,3
+12/11/19 1:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,96,19
+12/11/19 1:00 AM,UC Berkeley,DOE STACKS,Stacks East,2,1
+12/11/19 1:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/11/19 1:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/11/19 1:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/11/19 1:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/11/19 1:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/11/19 1:00 AM,UC Berkeley,GRDS Library,GRAD,0,0
+12/11/19 1:00 AM,UC Berkeley,HAAS Library,HAAS 2F,0,16
+12/11/19 1:00 AM,UC Berkeley,HAAS Library,HAAS 3F,0,3
+12/11/19 1:00 AM,UC Berkeley,MATH Library,MATH,0,0
+12/11/19 1:00 AM,UC Berkeley,MOFF Library,Moffit Entry,50,0
+12/11/19 1:00 AM,UC Berkeley,MOFF Library,Moffit Exit,1,135
+12/11/19 1:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,24,85
+12/11/19 1:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 1:00 AM,UC Berkeley,MUSI,MUSI,0,0
+12/11/19 1:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/11/19 1:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/11/19 1:00 AM,UC Berkeley,PHYS Library,PHYS,0,0
+12/11/19 1:00 AM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 1:00 AM,UC Berkeley,SOCR Library,SOCR,0,1
+12/11/19 2:00 AM,,,TEST,0,0
+12/11/19 2:00 AM,UC Berkeley,AHC Library,AHC Back,0,0
+12/11/19 2:00 AM,UC Berkeley,AHC Library,AHC Front,0,0
+12/11/19 2:00 AM,UC Berkeley,ANTH Library,ANTH,0,0
+12/11/19 2:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/11/19 2:00 AM,UC Berkeley,BIOS Library,VLSB1,0,0
+12/11/19 2:00 AM,UC Berkeley,BIOS Library,VLSB2,0,0
+12/11/19 2:00 AM,UC Berkeley,CHEM Library,CHEM,0,0
+12/11/19 2:00 AM,UC Berkeley,DOE Library,Doe North,0,0
+12/11/19 2:00 AM,UC Berkeley,DOE Library,Doe South,7,6
+12/11/19 2:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,60,18
+12/11/19 2:00 AM,UC Berkeley,DOE STACKS,Stacks East,4,0
+12/11/19 2:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/11/19 2:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/11/19 2:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/11/19 2:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/11/19 2:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/11/19 2:00 AM,UC Berkeley,GRDS Library,GRAD,0,0
+12/11/19 2:00 AM,UC Berkeley,HAAS Library,HAAS 2F,0,8
+12/11/19 2:00 AM,UC Berkeley,HAAS Library,HAAS 3F,0,5
+12/11/19 2:00 AM,UC Berkeley,MATH Library,MATH,0,0
+12/11/19 2:00 AM,UC Berkeley,MOFF Library,Moffit Entry,38,1
+12/11/19 2:00 AM,UC Berkeley,MOFF Library,Moffit Exit,1,92
+12/11/19 2:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,16,78
+12/11/19 2:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 2:00 AM,UC Berkeley,MUSI,MUSI,0,0
+12/11/19 2:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/11/19 2:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/11/19 2:00 AM,UC Berkeley,PHYS Library,PHYS,0,0
+12/11/19 2:00 AM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 2:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/11/19 3:00 AM,,,TEST,0,0
+12/11/19 3:00 AM,UC Berkeley,AHC Library,AHC Back,0,0
+12/11/19 3:00 AM,UC Berkeley,AHC Library,AHC Front,0,0
+12/11/19 3:00 AM,UC Berkeley,ANTH Library,ANTH,0,0
+12/11/19 3:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/11/19 3:00 AM,UC Berkeley,BIOS Library,VLSB1,0,0
+12/11/19 3:00 AM,UC Berkeley,BIOS Library,VLSB2,0,0
+12/11/19 3:00 AM,UC Berkeley,CHEM Library,CHEM,0,0
+12/11/19 3:00 AM,UC Berkeley,DOE Library,Doe North,1,1
+12/11/19 3:00 AM,UC Berkeley,DOE Library,Doe South,3,2
+12/11/19 3:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,31,7
+12/11/19 3:00 AM,UC Berkeley,DOE STACKS,Stacks East,2,0
+12/11/19 3:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/11/19 3:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/11/19 3:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/11/19 3:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/11/19 3:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/11/19 3:00 AM,UC Berkeley,GRDS Library,GRAD,0,0
+12/11/19 3:00 AM,UC Berkeley,HAAS Library,HAAS 2F,1,4
+12/11/19 3:00 AM,UC Berkeley,HAAS Library,HAAS 3F,0,1
+12/11/19 3:00 AM,UC Berkeley,MATH Library,MATH,0,0
+12/11/19 3:00 AM,UC Berkeley,MOFF Library,Moffit Entry,13,1
+12/11/19 3:00 AM,UC Berkeley,MOFF Library,Moffit Exit,1,44
+12/11/19 3:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,10,71
+12/11/19 3:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 3:00 AM,UC Berkeley,MUSI,MUSI,0,0
+12/11/19 3:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/11/19 3:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/11/19 3:00 AM,UC Berkeley,PHYS Library,PHYS,0,0
+12/11/19 3:00 AM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 3:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/11/19 4:00 AM,,,TEST,0,0
+12/11/19 4:00 AM,UC Berkeley,AHC Library,AHC Back,0,0
+12/11/19 4:00 AM,UC Berkeley,AHC Library,AHC Front,0,0
+12/11/19 4:00 AM,UC Berkeley,ANTH Library,ANTH,0,0
+12/11/19 4:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/11/19 4:00 AM,UC Berkeley,BIOS Library,VLSB1,0,0
+12/11/19 4:00 AM,UC Berkeley,BIOS Library,VLSB2,0,0
+12/11/19 4:00 AM,UC Berkeley,CHEM Library,CHEM,0,0
+12/11/19 4:00 AM,UC Berkeley,DOE Library,Doe North,0,0
+12/11/19 4:00 AM,UC Berkeley,DOE Library,Doe South,0,0
+12/11/19 4:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,11,2
+12/11/19 4:00 AM,UC Berkeley,DOE STACKS,Stacks East,1,0
+12/11/19 4:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/11/19 4:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/11/19 4:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/11/19 4:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/11/19 4:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/11/19 4:00 AM,UC Berkeley,GRDS Library,GRAD,0,0
+12/11/19 4:00 AM,UC Berkeley,HAAS Library,HAAS 2F,0,0
+12/11/19 4:00 AM,UC Berkeley,HAAS Library,HAAS 3F,1,0
+12/11/19 4:00 AM,UC Berkeley,MATH Library,MATH,0,0
+12/11/19 4:00 AM,UC Berkeley,MOFF Library,Moffit Entry,3,0
+12/11/19 4:00 AM,UC Berkeley,MOFF Library,Moffit Exit,0,11
+12/11/19 4:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,13,32
+12/11/19 4:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 4:00 AM,UC Berkeley,MUSI,MUSI,0,0
+12/11/19 4:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/11/19 4:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/11/19 4:00 AM,UC Berkeley,PHYS Library,PHYS,0,0
+12/11/19 4:00 AM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 4:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/11/19 5:00 AM,,,TEST,0,0
+12/11/19 5:00 AM,UC Berkeley,AHC Library,AHC Back,0,0
+12/11/19 5:00 AM,UC Berkeley,AHC Library,AHC Front,0,0
+12/11/19 5:00 AM,UC Berkeley,ANTH Library,ANTH,0,0
+12/11/19 5:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/11/19 5:00 AM,UC Berkeley,BIOS Library,VLSB1,0,0
+12/11/19 5:00 AM,UC Berkeley,BIOS Library,VLSB2,0,0
+12/11/19 5:00 AM,UC Berkeley,CHEM Library,CHEM,0,0
+12/11/19 5:00 AM,UC Berkeley,DOE Library,Doe North,0,0
+12/11/19 5:00 AM,UC Berkeley,DOE Library,Doe South,6,4
+12/11/19 5:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,8,3
+12/11/19 5:00 AM,UC Berkeley,DOE STACKS,Stacks East,1,0
+12/11/19 5:00 AM,UC Berkeley,EAL Library,EAL,0,0
+12/11/19 5:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/11/19 5:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/11/19 5:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/11/19 5:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/11/19 5:00 AM,UC Berkeley,GRDS Library,GRAD,0,0
+12/11/19 5:00 AM,UC Berkeley,HAAS Library,HAAS 2F,0,0
+12/11/19 5:00 AM,UC Berkeley,HAAS Library,HAAS 3F,3,1
+12/11/19 5:00 AM,UC Berkeley,MATH Library,MATH,0,0
+12/11/19 5:00 AM,UC Berkeley,MOFF Library,Moffit Entry,4,0
+12/11/19 5:00 AM,UC Berkeley,MOFF Library,Moffit Exit,0,10
+12/11/19 5:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,13,28
+12/11/19 5:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 5:00 AM,UC Berkeley,MUSI,MUSI,0,0
+12/11/19 5:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/11/19 5:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/11/19 5:00 AM,UC Berkeley,PHYS Library,PHYS,0,0
+12/11/19 5:00 AM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 5:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/11/19 6:00 AM,,,TEST,0,0
+12/11/19 6:00 AM,UC Berkeley,AHC Library,AHC Back,0,0
+12/11/19 6:00 AM,UC Berkeley,AHC Library,AHC Front,0,0
+12/11/19 6:00 AM,UC Berkeley,ANTH Library,ANTH,0,0
+12/11/19 6:00 AM,UC Berkeley,BANC Library,Bancroft,0,0
+12/11/19 6:00 AM,UC Berkeley,BIOS Library,VLSB1,0,0
+12/11/19 6:00 AM,UC Berkeley,BIOS Library,VLSB2,0,0
+12/11/19 6:00 AM,UC Berkeley,CHEM Library,CHEM,0,0
+12/11/19 6:00 AM,UC Berkeley,DOE Library,Doe North,7,7
+12/11/19 6:00 AM,UC Berkeley,DOE Library,Doe South,11,6
+12/11/19 6:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,5,9
+12/11/19 6:00 AM,UC Berkeley,DOE STACKS,Stacks East,5,0
+12/11/19 6:00 AM,UC Berkeley,EAL Library,EAL,2,0
+12/11/19 6:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/11/19 6:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/11/19 6:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/11/19 6:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/11/19 6:00 AM,UC Berkeley,GRDS Library,GRAD,0,0
+12/11/19 6:00 AM,UC Berkeley,HAAS Library,HAAS 2F,2,1
+12/11/19 6:00 AM,UC Berkeley,HAAS Library,HAAS 3F,0,0
+12/11/19 6:00 AM,UC Berkeley,MATH Library,MATH,0,0
+12/11/19 6:00 AM,UC Berkeley,MOFF Library,Moffit Entry,13,1
+12/11/19 6:00 AM,UC Berkeley,MOFF Library,Moffit Exit,2,13
+12/11/19 6:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,8,13
+12/11/19 6:00 AM,UC Berkeley,MORR Library,Morrison,3,1
+12/11/19 6:00 AM,UC Berkeley,MUSI,MUSI,0,0
+12/11/19 6:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/11/19 6:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/11/19 6:00 AM,UC Berkeley,PHYS Library,PHYS,1,0
+12/11/19 6:00 AM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 6:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/11/19 7:00 AM,,,TEST,0,0
+12/11/19 7:00 AM,UC Berkeley,AHC Library,AHC Back,0,0
+12/11/19 7:00 AM,UC Berkeley,AHC Library,AHC Front,0,0
+12/11/19 7:00 AM,UC Berkeley,ANTH Library,ANTH,0,0
+12/11/19 7:00 AM,UC Berkeley,BANC Library,Bancroft,2,0
+12/11/19 7:00 AM,UC Berkeley,BIOS Library,VLSB1,1,0
+12/11/19 7:00 AM,UC Berkeley,BIOS Library,VLSB2,1,0
+12/11/19 7:00 AM,UC Berkeley,CHEM Library,CHEM,0,0
+12/11/19 7:00 AM,UC Berkeley,DOE Library,Doe North,0,0
+12/11/19 7:00 AM,UC Berkeley,DOE Library,Doe South,30,21
+12/11/19 7:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,8,13
+12/11/19 7:00 AM,UC Berkeley,DOE STACKS,Stacks East,0,0
+12/11/19 7:00 AM,UC Berkeley,EAL Library,EAL,1,0
+12/11/19 7:00 AM,UC Berkeley,EART Library,Earth North,0,0
+12/11/19 7:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/11/19 7:00 AM,UC Berkeley,ENGI Library,ENGI,0,0
+12/11/19 7:00 AM,UC Berkeley,ENVI Library,ENVI,0,0
+12/11/19 7:00 AM,UC Berkeley,GRDS Library,GRAD,0,0
+12/11/19 7:00 AM,UC Berkeley,HAAS Library,HAAS 2F,0,0
+12/11/19 7:00 AM,UC Berkeley,HAAS Library,HAAS 3F,3,9
+12/11/19 7:00 AM,UC Berkeley,MATH Library,MATH,0,0
+12/11/19 7:00 AM,UC Berkeley,MOFF Library,Moffit Entry,28,0
+12/11/19 7:00 AM,UC Berkeley,MOFF Library,Moffit Exit,0,15
+12/11/19 7:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,30,23
+12/11/19 7:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 7:00 AM,UC Berkeley,MUSI,MUSI,0,0
+12/11/19 7:00 AM,UC Berkeley,NEWS Library,News,0,0
+12/11/19 7:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/11/19 7:00 AM,UC Berkeley,PHYS Library,PHYS,0,0
+12/11/19 7:00 AM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 7:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/11/19 8:00 AM,,,TEST,0,0
+12/11/19 8:00 AM,UC Berkeley,AHC Library,AHC Back,3,1
+12/11/19 8:00 AM,UC Berkeley,AHC Library,AHC Front,1,1
+12/11/19 8:00 AM,UC Berkeley,ANTH Library,ANTH,1,0
+12/11/19 8:00 AM,UC Berkeley,BANC Library,Bancroft,17,14
+12/11/19 8:00 AM,UC Berkeley,BIOS Library,VLSB1,3,0
+12/11/19 8:00 AM,UC Berkeley,BIOS Library,VLSB2,4,1
+12/11/19 8:00 AM,UC Berkeley,CHEM Library,CHEM,2,1
+12/11/19 8:00 AM,UC Berkeley,DOE Library,Doe North,43,11
+12/11/19 8:00 AM,UC Berkeley,DOE Library,Doe South,70,12
+12/11/19 8:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,2,26
+12/11/19 8:00 AM,UC Berkeley,DOE STACKS,Stacks East,4,3
+12/11/19 8:00 AM,UC Berkeley,EAL Library,EAL,2,0
+12/11/19 8:00 AM,UC Berkeley,EART Library,Earth North,1,1
+12/11/19 8:00 AM,UC Berkeley,EART Library,Earth South,0,0
+12/11/19 8:00 AM,UC Berkeley,ENGI Library,ENGI,2,4
+12/11/19 8:00 AM,UC Berkeley,ENVI Library,ENVI,3,1
+12/11/19 8:00 AM,UC Berkeley,GRDS Library,GRAD,0,0
+12/11/19 8:00 AM,UC Berkeley,HAAS Library,HAAS 2F,7,1
+12/11/19 8:00 AM,UC Berkeley,HAAS Library,HAAS 3F,4,3
+12/11/19 8:00 AM,UC Berkeley,MATH Library,MATH,2,0
+12/11/19 8:00 AM,UC Berkeley,MOFF Library,Moffit Entry,83,1
+12/11/19 8:00 AM,UC Berkeley,MOFF Library,Moffit Exit,0,21
+12/11/19 8:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,93,26
+12/11/19 8:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 8:00 AM,UC Berkeley,MUSI,MUSI,1,0
+12/11/19 8:00 AM,UC Berkeley,NEWS Library,News,1,1
+12/11/19 8:00 AM,UC Berkeley,OPTO Library,OPTO,0,0
+12/11/19 8:00 AM,UC Berkeley,PHYS Library,PHYS,0,1
+12/11/19 8:00 AM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 8:00 AM,UC Berkeley,SOCR Library,SOCR,0,0
+12/11/19 9:00 AM,,,TEST,0,0
+12/11/19 9:00 AM,UC Berkeley,AHC Library,AHC Back,6,3
+12/11/19 9:00 AM,UC Berkeley,AHC Library,AHC Front,6,3
+12/11/19 9:00 AM,UC Berkeley,ANTH Library,ANTH,16,7
+12/11/19 9:00 AM,UC Berkeley,BANC Library,Bancroft,21,42
+12/11/19 9:00 AM,UC Berkeley,BIOS Library,VLSB1,60,9
+12/11/19 9:00 AM,UC Berkeley,BIOS Library,VLSB2,28,4
+12/11/19 9:00 AM,UC Berkeley,CHEM Library,CHEM,31,8
+12/11/19 9:00 AM,UC Berkeley,DOE Library,Doe North,134,25
+12/11/19 9:00 AM,UC Berkeley,DOE Library,Doe South,120,42
+12/11/19 9:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,20,81
+12/11/19 9:00 AM,UC Berkeley,DOE STACKS,Stacks East,71,21
+12/11/19 9:00 AM,UC Berkeley,EAL Library,EAL,85,7
+12/11/19 9:00 AM,UC Berkeley,EART Library,Earth North,9,3
+12/11/19 9:00 AM,UC Berkeley,EART Library,Earth South,7,4
+12/11/19 9:00 AM,UC Berkeley,ENGI Library,ENGI,51,14
+12/11/19 9:00 AM,UC Berkeley,ENVI Library,ENVI,82,29
+12/11/19 9:00 AM,UC Berkeley,GRDS Library,GRAD,12,5
+12/11/19 9:00 AM,UC Berkeley,HAAS Library,HAAS 2F,68,19
+12/11/19 9:00 AM,UC Berkeley,HAAS Library,HAAS 3F,35,28
+12/11/19 9:00 AM,UC Berkeley,MATH Library,MATH,25,10
+12/11/19 9:00 AM,UC Berkeley,MOFF Library,Moffit Entry,157,4
+12/11/19 9:00 AM,UC Berkeley,MOFF Library,Moffit Exit,0,55
+12/11/19 9:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,140,50
+12/11/19 9:00 AM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 9:00 AM,UC Berkeley,MUSI,MUSI,56,10
+12/11/19 9:00 AM,UC Berkeley,NEWS Library,News,4,2
+12/11/19 9:00 AM,UC Berkeley,OPTO Library,OPTO,9,5
+12/11/19 9:00 AM,UC Berkeley,PHYS Library,PHYS,10,5
+12/11/19 9:00 AM,UC Berkeley,SEAL Library,SEAL,4,1
+12/11/19 9:00 AM,UC Berkeley,SOCR Library,SOCR,12,5
+12/11/19 10:00 AM,,,TEST,0,0
+12/11/19 10:00 AM,UC Berkeley,AHC Library,AHC Back,2,2
+12/11/19 10:00 AM,UC Berkeley,AHC Library,AHC Front,4,4
+12/11/19 10:00 AM,UC Berkeley,ANTH Library,ANTH,24,14
+12/11/19 10:00 AM,UC Berkeley,BANC Library,Bancroft,29,47
+12/11/19 10:00 AM,UC Berkeley,BIOS Library,VLSB1,51,25
+12/11/19 10:00 AM,UC Berkeley,BIOS Library,VLSB2,35,14
+12/11/19 10:00 AM,UC Berkeley,CHEM Library,CHEM,45,27
+12/11/19 10:00 AM,UC Berkeley,DOE Library,Doe North,132,53
+12/11/19 10:00 AM,UC Berkeley,DOE Library,Doe South,106,33
+12/11/19 10:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,21,94
+12/11/19 10:00 AM,UC Berkeley,DOE STACKS,Stacks East,62,53
+12/11/19 10:00 AM,UC Berkeley,EAL Library,EAL,66,18
+12/11/19 10:00 AM,UC Berkeley,EART Library,Earth North,7,12
+12/11/19 10:00 AM,UC Berkeley,EART Library,Earth South,17,6
+12/11/19 10:00 AM,UC Berkeley,ENGI Library,ENGI,87,24
+12/11/19 10:00 AM,UC Berkeley,ENVI Library,ENVI,122,62
+12/11/19 10:00 AM,UC Berkeley,GRDS Library,GRAD,21,8
+12/11/19 10:00 AM,UC Berkeley,HAAS Library,HAAS 2F,84,20
+12/11/19 10:00 AM,UC Berkeley,HAAS Library,HAAS 3F,26,36
+12/11/19 10:00 AM,UC Berkeley,MATH Library,MATH,35,32
+12/11/19 10:00 AM,UC Berkeley,MOFF Library,Moffit Entry,188,5
+12/11/19 10:00 AM,UC Berkeley,MOFF Library,Moffit Exit,0,68
+12/11/19 10:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,134,76
+12/11/19 10:00 AM,UC Berkeley,MORR Library,Morrison,20,10
+12/11/19 10:00 AM,UC Berkeley,MUSI,MUSI,47,14
+12/11/19 10:00 AM,UC Berkeley,NEWS Library,News,11,7
+12/11/19 10:00 AM,UC Berkeley,OPTO Library,OPTO,32,13
+12/11/19 10:00 AM,UC Berkeley,PHYS Library,PHYS,13,6
+12/11/19 10:00 AM,UC Berkeley,SEAL Library,SEAL,6,5
+12/11/19 10:00 AM,UC Berkeley,SOCR Library,SOCR,13,9
+12/11/19 11:00 AM,,,TEST,0,0
+12/11/19 11:00 AM,UC Berkeley,AHC Library,AHC Back,6,3
+12/11/19 11:00 AM,UC Berkeley,AHC Library,AHC Front,12,7
+12/11/19 11:00 AM,UC Berkeley,ANTH Library,ANTH,37,21
+12/11/19 11:00 AM,UC Berkeley,BANC Library,Bancroft,46,56
+12/11/19 11:00 AM,UC Berkeley,BIOS Library,VLSB1,48,49
+12/11/19 11:00 AM,UC Berkeley,BIOS Library,VLSB2,61,40
+12/11/19 11:00 AM,UC Berkeley,CHEM Library,CHEM,34,37
+12/11/19 11:00 AM,UC Berkeley,DOE Library,Doe North,132,95
+12/11/19 11:00 AM,UC Berkeley,DOE Library,Doe South,127,76
+12/11/19 11:00 AM,UC Berkeley,DOE STACKS,Moffit Corridor,54,115
+12/11/19 11:00 AM,UC Berkeley,DOE STACKS,Stacks East,61,52
+12/11/19 11:00 AM,UC Berkeley,EAL Library,EAL,66,56
+12/11/19 11:00 AM,UC Berkeley,EART Library,Earth North,18,17
+12/11/19 11:00 AM,UC Berkeley,EART Library,Earth South,10,7
+12/11/19 11:00 AM,UC Berkeley,ENGI Library,ENGI,123,99
+12/11/19 11:00 AM,UC Berkeley,ENVI Library,ENVI,147,133
+12/11/19 11:00 AM,UC Berkeley,GRDS Library,GRAD,19,14
+12/11/19 11:00 AM,UC Berkeley,HAAS Library,HAAS 2F,113,72
+12/11/19 11:00 AM,UC Berkeley,HAAS Library,HAAS 3F,43,53
+12/11/19 11:00 AM,UC Berkeley,MATH Library,MATH,39,24
+12/11/19 11:00 AM,UC Berkeley,MOFF Library,Moffit Entry,193,5
+12/11/19 11:00 AM,UC Berkeley,MOFF Library,Moffit Exit,0,129
+12/11/19 11:00 AM,UC Berkeley,MOFF Library,Moffitt 4th,184,134
+12/11/19 11:00 AM,UC Berkeley,MORR Library,Morrison,10,6
+12/11/19 11:00 AM,UC Berkeley,MUSI,MUSI,64,36
+12/11/19 11:00 AM,UC Berkeley,NEWS Library,News,14,9
+12/11/19 11:00 AM,UC Berkeley,OPTO Library,OPTO,23,22
+12/11/19 11:00 AM,UC Berkeley,PHYS Library,PHYS,11,12
+12/11/19 11:00 AM,UC Berkeley,SEAL Library,SEAL,7,4
+12/11/19 11:00 AM,UC Berkeley,SOCR Library,SOCR,8,10
+12/11/19 12:00 PM,,,TEST,0,0
+12/11/19 12:00 PM,UC Berkeley,AHC Library,AHC Back,10,9
+12/11/19 12:00 PM,UC Berkeley,AHC Library,AHC Front,10,12
+12/11/19 12:00 PM,UC Berkeley,ANTH Library,ANTH,43,36
+12/11/19 12:00 PM,UC Berkeley,BANC Library,Bancroft,49,85
+12/11/19 12:00 PM,UC Berkeley,BIOS Library,VLSB1,69,75
+12/11/19 12:00 PM,UC Berkeley,BIOS Library,VLSB2,65,40
+12/11/19 12:00 PM,UC Berkeley,CHEM Library,CHEM,78,37
+12/11/19 12:00 PM,UC Berkeley,DOE Library,Doe North,194,179
+12/11/19 12:00 PM,UC Berkeley,DOE Library,Doe South,152,157
+12/11/19 12:00 PM,UC Berkeley,DOE STACKS,Moffit Corridor,109,135
+12/11/19 12:00 PM,UC Berkeley,DOE STACKS,Stacks East,86,95
+12/11/19 12:00 PM,UC Berkeley,EAL Library,EAL,56,63
+12/11/19 12:00 PM,UC Berkeley,EART Library,Earth North,11,22
+12/11/19 12:00 PM,UC Berkeley,EART Library,Earth South,15,6
+12/11/19 12:00 PM,UC Berkeley,ENGI Library,ENGI,133,112
+12/11/19 12:00 PM,UC Berkeley,ENVI Library,ENVI,152,144
+12/11/19 12:00 PM,UC Berkeley,GRDS Library,GRAD,26,27
+12/11/19 12:00 PM,UC Berkeley,HAAS Library,HAAS 2F,148,108
+12/11/19 12:00 PM,UC Berkeley,HAAS Library,HAAS 3F,67,63
+12/11/19 12:00 PM,UC Berkeley,MATH Library,MATH,48,43
+12/11/19 12:00 PM,UC Berkeley,MOFF Library,Moffit Entry,258,8
+12/11/19 12:00 PM,UC Berkeley,MOFF Library,Moffit Exit,0,167
+12/11/19 12:00 PM,UC Berkeley,MOFF Library,Moffitt 4th,209,192
+12/11/19 12:00 PM,UC Berkeley,MORR Library,Morrison,31,17
+12/11/19 12:00 PM,UC Berkeley,MUSI,MUSI,76,66
+12/11/19 12:00 PM,UC Berkeley,NEWS Library,News,16,16
+12/11/19 12:00 PM,UC Berkeley,OPTO Library,OPTO,28,41
+12/11/19 12:00 PM,UC Berkeley,PHYS Library,PHYS,12,9
+12/11/19 12:00 PM,UC Berkeley,SEAL Library,SEAL,15,14
+12/11/19 12:00 PM,UC Berkeley,SOCR Library,SOCR,12,14
+12/11/19 1:00 PM,,,TEST,0,0
+12/11/19 1:00 PM,UC Berkeley,AHC Library,AHC Back,1,5
+12/11/19 1:00 PM,UC Berkeley,AHC Library,AHC Front,2,6
+12/11/19 1:00 PM,UC Berkeley,ANTH Library,ANTH,56,44
+12/11/19 1:00 PM,UC Berkeley,BANC Library,Bancroft,65,67
+12/11/19 1:00 PM,UC Berkeley,BIOS Library,VLSB1,106,92
+12/11/19 1:00 PM,UC Berkeley,BIOS Library,VLSB2,100,56
+12/11/19 1:00 PM,UC Berkeley,CHEM Library,CHEM,59,61
+12/11/19 1:00 PM,UC Berkeley,DOE Library,Doe North,197,145
+12/11/19 1:00 PM,UC Berkeley,DOE Library,Doe South,158,145
+12/11/19 1:00 PM,UC Berkeley,DOE STACKS,Moffit Corridor,115,187
+12/11/19 1:00 PM,UC Berkeley,DOE STACKS,Stacks East,105,103
+12/11/19 1:00 PM,UC Berkeley,EAL Library,EAL,84,72
+12/11/19 1:00 PM,UC Berkeley,EART Library,Earth North,18,21
+12/11/19 1:00 PM,UC Berkeley,EART Library,Earth South,17,13
+12/11/19 1:00 PM,UC Berkeley,ENGI Library,ENGI,177,138
+12/11/19 1:00 PM,UC Berkeley,ENVI Library,ENVI,143,143
+12/11/19 1:00 PM,UC Berkeley,GRDS Library,GRAD,19,24
+12/11/19 1:00 PM,UC Berkeley,HAAS Library,HAAS 2F,114,124
+12/11/19 1:00 PM,UC Berkeley,HAAS Library,HAAS 3F,55,56
+12/11/19 1:00 PM,UC Berkeley,MATH Library,MATH,58,37
+12/11/19 1:00 PM,UC Berkeley,MOFF Library,Moffit Entry,319,6
+12/11/19 1:00 PM,UC Berkeley,MOFF Library,Moffit Exit,0,215
+12/11/19 1:00 PM,UC Berkeley,MOFF Library,Moffitt 4th,300,192
+12/11/19 1:00 PM,UC Berkeley,MORR Library,Morrison,23,28
+12/11/19 1:00 PM,UC Berkeley,MUSI,MUSI,71,66
+12/11/19 1:00 PM,UC Berkeley,NEWS Library,News,10,7
+12/11/19 1:00 PM,UC Berkeley,OPTO Library,OPTO,22,15
+12/11/19 1:00 PM,UC Berkeley,PHYS Library,PHYS,15,15
+12/11/19 1:00 PM,UC Berkeley,SEAL Library,SEAL,8,6
+12/11/19 1:00 PM,UC Berkeley,SOCR Library,SOCR,16,11
+12/11/19 2:00 PM,,,TEST,0,0
+12/11/19 2:00 PM,UC Berkeley,AHC Library,AHC Back,7,4
+12/11/19 2:00 PM,UC Berkeley,AHC Library,AHC Front,13,12
+12/11/19 2:00 PM,UC Berkeley,ANTH Library,ANTH,56,49
+12/11/19 2:00 PM,UC Berkeley,BANC Library,Bancroft,67,96
+12/11/19 2:00 PM,UC Berkeley,BIOS Library,VLSB1,94,110
+12/11/19 2:00 PM,UC Berkeley,BIOS Library,VLSB2,81,56
+12/11/19 2:00 PM,UC Berkeley,CHEM Library,CHEM,72,75
+12/11/19 2:00 PM,UC Berkeley,DOE Library,Doe North,242,143
+12/11/19 2:00 PM,UC Berkeley,DOE Library,Doe South,155,149
+12/11/19 2:00 PM,UC Berkeley,DOE STACKS,Moffit Corridor,124,201
+12/11/19 2:00 PM,UC Berkeley,DOE STACKS,Stacks East,91,109
+12/11/19 2:00 PM,UC Berkeley,EAL Library,EAL,94,60
+12/11/19 2:00 PM,UC Berkeley,EART Library,Earth North,15,18
+12/11/19 2:00 PM,UC Berkeley,EART Library,Earth South,16,11
+12/11/19 2:00 PM,UC Berkeley,ENGI Library,ENGI,245,154
+12/11/19 2:00 PM,UC Berkeley,ENVI Library,ENVI,123,123
+12/11/19 2:00 PM,UC Berkeley,GRDS Library,GRAD,39,21
+12/11/19 2:00 PM,UC Berkeley,HAAS Library,HAAS 2F,134,137
+12/11/19 2:00 PM,UC Berkeley,HAAS Library,HAAS 3F,45,51
+12/11/19 2:00 PM,UC Berkeley,MATH Library,MATH,57,65
+12/11/19 2:00 PM,UC Berkeley,MOFF Library,Moffit Entry,388,13
+12/11/19 2:00 PM,UC Berkeley,MOFF Library,Moffit Exit,0,254
+12/11/19 2:00 PM,UC Berkeley,MOFF Library,Moffitt 4th,266,201
+12/11/19 2:00 PM,UC Berkeley,MORR Library,Morrison,32,21
+12/11/19 2:00 PM,UC Berkeley,MUSI,MUSI,94,73
+12/11/19 2:00 PM,UC Berkeley,NEWS Library,News,13,13
+12/11/19 2:00 PM,UC Berkeley,OPTO Library,OPTO,36,36
+12/11/19 2:00 PM,UC Berkeley,PHYS Library,PHYS,16,12
+12/11/19 2:00 PM,UC Berkeley,SEAL Library,SEAL,12,9
+12/11/19 2:00 PM,UC Berkeley,SOCR Library,SOCR,22,10
+12/11/19 3:00 PM,,,TEST,0,0
+12/11/19 3:00 PM,UC Berkeley,AHC Library,AHC Back,10,6
+12/11/19 3:00 PM,UC Berkeley,AHC Library,AHC Front,17,15
+12/11/19 3:00 PM,UC Berkeley,ANTH Library,ANTH,46,53
+12/11/19 3:00 PM,UC Berkeley,BANC Library,Bancroft,86,60
+12/11/19 3:00 PM,UC Berkeley,BIOS Library,VLSB1,102,107
+12/11/19 3:00 PM,UC Berkeley,BIOS Library,VLSB2,108,74
+12/11/19 3:00 PM,UC Berkeley,CHEM Library,CHEM,42,61
+12/11/19 3:00 PM,UC Berkeley,DOE Library,Doe North,243,185
+12/11/19 3:00 PM,UC Berkeley,DOE Library,Doe South,151,181
+12/11/19 3:00 PM,UC Berkeley,DOE STACKS,Moffit Corridor,166,205
+12/11/19 3:00 PM,UC Berkeley,DOE STACKS,Stacks East,112,145
+12/11/19 3:00 PM,UC Berkeley,EAL Library,EAL,80,72
+12/11/19 3:00 PM,UC Berkeley,EART Library,Earth North,26,17
+12/11/19 3:00 PM,UC Berkeley,EART Library,Earth South,17,22
+12/11/19 3:00 PM,UC Berkeley,ENGI Library,ENGI,244,240
+12/11/19 3:00 PM,UC Berkeley,ENVI Library,ENVI,113,118
+12/11/19 3:00 PM,UC Berkeley,GRDS Library,GRAD,25,30
+12/11/19 3:00 PM,UC Berkeley,HAAS Library,HAAS 2F,115,120
+12/11/19 3:00 PM,UC Berkeley,HAAS Library,HAAS 3F,43,54
+12/11/19 3:00 PM,UC Berkeley,MATH Library,MATH,60,68
+12/11/19 3:00 PM,UC Berkeley,MOFF Library,Moffit Entry,405,9
+12/11/19 3:00 PM,UC Berkeley,MOFF Library,Moffit Exit,0,290
+12/11/19 3:00 PM,UC Berkeley,MOFF Library,Moffitt 4th,240,221
+12/11/19 3:00 PM,UC Berkeley,MORR Library,Morrison,37,31
+12/11/19 3:00 PM,UC Berkeley,MUSI,MUSI,68,72
+12/11/19 3:00 PM,UC Berkeley,NEWS Library,News,7,12
+12/11/19 3:00 PM,UC Berkeley,OPTO Library,OPTO,15,23
+12/11/19 3:00 PM,UC Berkeley,PHYS Library,PHYS,16,14
+12/11/19 3:00 PM,UC Berkeley,SEAL Library,SEAL,12,11
+12/11/19 3:00 PM,UC Berkeley,SOCR Library,SOCR,26,22
+12/11/19 4:00 PM,,,TEST,0,0
+12/11/19 4:00 PM,UC Berkeley,AHC Library,AHC Back,6,8
+12/11/19 4:00 PM,UC Berkeley,AHC Library,AHC Front,9,14
+12/11/19 4:00 PM,UC Berkeley,ANTH Library,ANTH,60,59
+12/11/19 4:00 PM,UC Berkeley,BANC Library,Bancroft,63,59
+12/11/19 4:00 PM,UC Berkeley,BIOS Library,VLSB1,50,106
+12/11/19 4:00 PM,UC Berkeley,BIOS Library,VLSB2,82,64
+12/11/19 4:00 PM,UC Berkeley,CHEM Library,CHEM,39,49
+12/11/19 4:00 PM,UC Berkeley,DOE Library,Doe North,159,226
+12/11/19 4:00 PM,UC Berkeley,DOE Library,Doe South,111,186
+12/11/19 4:00 PM,UC Berkeley,DOE STACKS,Moffit Corridor,124,144
+12/11/19 4:00 PM,UC Berkeley,DOE STACKS,Stacks East,75,91
+12/11/19 4:00 PM,UC Berkeley,EAL Library,EAL,70,68
+12/11/19 4:00 PM,UC Berkeley,EART Library,Earth North,13,16
+12/11/19 4:00 PM,UC Berkeley,EART Library,Earth South,14,14
+12/11/19 4:00 PM,UC Berkeley,ENGI Library,ENGI,181,189
+12/11/19 4:00 PM,UC Berkeley,ENVI Library,ENVI,120,128
+12/11/19 4:00 PM,UC Berkeley,GRDS Library,GRAD,23,30
+12/11/19 4:00 PM,UC Berkeley,HAAS Library,HAAS 2F,137,121
+12/11/19 4:00 PM,UC Berkeley,HAAS Library,HAAS 3F,49,80
+12/11/19 4:00 PM,UC Berkeley,MATH Library,MATH,45,49
+12/11/19 4:00 PM,UC Berkeley,MOFF Library,Moffit Entry,262,7
+12/11/19 4:00 PM,UC Berkeley,MOFF Library,Moffit Exit,0,243
+12/11/19 4:00 PM,UC Berkeley,MOFF Library,Moffitt 4th,201,227
+12/11/19 4:00 PM,UC Berkeley,MORR Library,Morrison,26,22
+12/11/19 4:00 PM,UC Berkeley,MUSI,MUSI,39,68
+12/11/19 4:00 PM,UC Berkeley,NEWS Library,News,8,12
+12/11/19 4:00 PM,UC Berkeley,OPTO Library,OPTO,20,12
+12/11/19 4:00 PM,UC Berkeley,PHYS Library,PHYS,21,26
+12/11/19 4:00 PM,UC Berkeley,SEAL Library,SEAL,4,13
+12/11/19 4:00 PM,UC Berkeley,SOCR Library,SOCR,12,20
+12/11/19 5:00 PM,,,TEST,0,0
+12/11/19 5:00 PM,UC Berkeley,AHC Library,AHC Back,0,4
+12/11/19 5:00 PM,UC Berkeley,AHC Library,AHC Front,5,5
+12/11/19 5:00 PM,UC Berkeley,ANTH Library,ANTH,42,70
+12/11/19 5:00 PM,UC Berkeley,BANC Library,Bancroft,26,13
+12/11/19 5:00 PM,UC Berkeley,BIOS Library,VLSB1,40,108
+12/11/19 5:00 PM,UC Berkeley,BIOS Library,VLSB2,51,45
+12/11/19 5:00 PM,UC Berkeley,CHEM Library,CHEM,25,43
+12/11/19 5:00 PM,UC Berkeley,DOE Library,Doe North,118,235
+12/11/19 5:00 PM,UC Berkeley,DOE Library,Doe South,72,171
+12/11/19 5:00 PM,UC Berkeley,DOE STACKS,Moffit Corridor,163,125
+12/11/19 5:00 PM,UC Berkeley,DOE STACKS,Stacks East,64,93
+12/11/19 5:00 PM,UC Berkeley,EAL Library,EAL,38,65
+12/11/19 5:00 PM,UC Berkeley,EART Library,Earth North,11,18
+12/11/19 5:00 PM,UC Berkeley,EART Library,Earth South,6,13
+12/11/19 5:00 PM,UC Berkeley,ENGI Library,ENGI,147,210
+12/11/19 5:00 PM,UC Berkeley,ENVI Library,ENVI,91,96
+12/11/19 5:00 PM,UC Berkeley,GRDS Library,GRAD,25,29
+12/11/19 5:00 PM,UC Berkeley,HAAS Library,HAAS 2F,110,120
+12/11/19 5:00 PM,UC Berkeley,HAAS Library,HAAS 3F,41,73
+12/11/19 5:00 PM,UC Berkeley,MATH Library,MATH,35,45
+12/11/19 5:00 PM,UC Berkeley,MOFF Library,Moffit Entry,211,2
+12/11/19 5:00 PM,UC Berkeley,MOFF Library,Moffit Exit,0,300
+12/11/19 5:00 PM,UC Berkeley,MOFF Library,Moffitt 4th,136,209
+12/11/19 5:00 PM,UC Berkeley,MORR Library,Morrison,15,36
+12/11/19 5:00 PM,UC Berkeley,MUSI,MUSI,31,68
+12/11/19 5:00 PM,UC Berkeley,NEWS Library,News,13,7
+12/11/19 5:00 PM,UC Berkeley,OPTO Library,OPTO,10,17
+12/11/19 5:00 PM,UC Berkeley,PHYS Library,PHYS,15,22
+12/11/19 5:00 PM,UC Berkeley,SEAL Library,SEAL,3,9
+12/11/19 5:00 PM,UC Berkeley,SOCR Library,SOCR,12,15
+12/11/19 6:00 PM,,,TEST,0,0
+12/11/19 6:00 PM,UC Berkeley,AHC Library,AHC Back,2,4
+12/11/19 6:00 PM,UC Berkeley,AHC Library,AHC Front,3,6
+12/11/19 6:00 PM,UC Berkeley,ANTH Library,ANTH,16,22
+12/11/19 6:00 PM,UC Berkeley,BANC Library,Bancroft,0,4
+12/11/19 6:00 PM,UC Berkeley,BIOS Library,VLSB1,45,87
+12/11/19 6:00 PM,UC Berkeley,BIOS Library,VLSB2,29,37
+12/11/19 6:00 PM,UC Berkeley,CHEM Library,CHEM,19,28
+12/11/19 6:00 PM,UC Berkeley,DOE Library,Doe North,90,145
+12/11/19 6:00 PM,UC Berkeley,DOE Library,Doe South,70,144
+12/11/19 6:00 PM,UC Berkeley,DOE STACKS,Moffit Corridor,170,155
+12/11/19 6:00 PM,UC Berkeley,DOE STACKS,Stacks East,59,95
+12/11/19 6:00 PM,UC Berkeley,EAL Library,EAL,31,56
+12/11/19 6:00 PM,UC Berkeley,EART Library,Earth North,7,9
+12/11/19 6:00 PM,UC Berkeley,EART Library,Earth South,0,4
+12/11/19 6:00 PM,UC Berkeley,ENGI Library,ENGI,120,160
+12/11/19 6:00 PM,UC Berkeley,ENVI Library,ENVI,61,78
+12/11/19 6:00 PM,UC Berkeley,GRDS Library,GRAD,9,18
+12/11/19 6:00 PM,UC Berkeley,HAAS Library,HAAS 2F,81,129
+12/11/19 6:00 PM,UC Berkeley,HAAS Library,HAAS 3F,36,54
+12/11/19 6:00 PM,UC Berkeley,MATH Library,MATH,24,41
+12/11/19 6:00 PM,UC Berkeley,MOFF Library,Moffit Entry,252,1
+12/11/19 6:00 PM,UC Berkeley,MOFF Library,Moffit Exit,0,285
+12/11/19 6:00 PM,UC Berkeley,MOFF Library,Moffitt 4th,169,195
+12/11/19 6:00 PM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 6:00 PM,UC Berkeley,MUSI,MUSI,17,40
+12/11/19 6:00 PM,UC Berkeley,NEWS Library,News,5,8
+12/11/19 6:00 PM,UC Berkeley,OPTO Library,OPTO,5,10
+12/11/19 6:00 PM,UC Berkeley,PHYS Library,PHYS,4,5
+12/11/19 6:00 PM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 6:00 PM,UC Berkeley,SOCR Library,SOCR,5,10
+12/11/19 7:00 PM,,,TEST,0,0
+12/11/19 7:00 PM,UC Berkeley,AHC Library,AHC Back,2,2
+12/11/19 7:00 PM,UC Berkeley,AHC Library,AHC Front,2,5
+12/11/19 7:00 PM,UC Berkeley,ANTH Library,ANTH,10,28
+12/11/19 7:00 PM,UC Berkeley,BANC Library,Bancroft,0,0
+12/11/19 7:00 PM,UC Berkeley,BIOS Library,VLSB1,36,51
+12/11/19 7:00 PM,UC Berkeley,BIOS Library,VLSB2,27,24
+12/11/19 7:00 PM,UC Berkeley,CHEM Library,CHEM,12,19
+12/11/19 7:00 PM,UC Berkeley,DOE Library,Doe North,57,112
+12/11/19 7:00 PM,UC Berkeley,DOE Library,Doe South,40,83
+12/11/19 7:00 PM,UC Berkeley,DOE STACKS,Moffit Corridor,122,137
+12/11/19 7:00 PM,UC Berkeley,DOE STACKS,Stacks East,46,58
+12/11/19 7:00 PM,UC Berkeley,EAL Library,EAL,17,48
+12/11/19 7:00 PM,UC Berkeley,EART Library,Earth North,1,5
+12/11/19 7:00 PM,UC Berkeley,EART Library,Earth South,0,6
+12/11/19 7:00 PM,UC Berkeley,ENGI Library,ENGI,107,123
+12/11/19 7:00 PM,UC Berkeley,ENVI Library,ENVI,75,73
+12/11/19 7:00 PM,UC Berkeley,GRDS Library,GRAD,3,10
+12/11/19 7:00 PM,UC Berkeley,HAAS Library,HAAS 2F,72,88
+12/11/19 7:00 PM,UC Berkeley,HAAS Library,HAAS 3F,18,19
+12/11/19 7:00 PM,UC Berkeley,MATH Library,MATH,3,23
+12/11/19 7:00 PM,UC Berkeley,MOFF Library,Moffit Entry,240,0
+12/11/19 7:00 PM,UC Berkeley,MOFF Library,Moffit Exit,3,229
+12/11/19 7:00 PM,UC Berkeley,MOFF Library,Moffitt 4th,151,154
+12/11/19 7:00 PM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 7:00 PM,UC Berkeley,MUSI,MUSI,8,34
+12/11/19 7:00 PM,UC Berkeley,NEWS Library,News,1,8
+12/11/19 7:00 PM,UC Berkeley,OPTO Library,OPTO,3,4
+12/11/19 7:00 PM,UC Berkeley,PHYS Library,PHYS,2,10
+12/11/19 7:00 PM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 7:00 PM,UC Berkeley,SOCR Library,SOCR,0,1
+12/11/19 8:00 PM,,,TEST,0,0
+12/11/19 8:00 PM,UC Berkeley,AHC Library,AHC Back,0,0
+12/11/19 8:00 PM,UC Berkeley,AHC Library,AHC Front,2,4
+12/11/19 8:00 PM,UC Berkeley,ANTH Library,ANTH,2,11
+12/11/19 8:00 PM,UC Berkeley,BANC Library,Bancroft,0,0
+12/11/19 8:00 PM,UC Berkeley,BIOS Library,VLSB1,11,33
+12/11/19 8:00 PM,UC Berkeley,BIOS Library,VLSB2,22,24
+12/11/19 8:00 PM,UC Berkeley,CHEM Library,CHEM,1,11
+12/11/19 8:00 PM,UC Berkeley,DOE Library,Doe North,39,75
+12/11/19 8:00 PM,UC Berkeley,DOE Library,Doe South,43,62
+12/11/19 8:00 PM,UC Berkeley,DOE STACKS,Moffit Corridor,123,177
+12/11/19 8:00 PM,UC Berkeley,DOE STACKS,Stacks East,54,48
+12/11/19 8:00 PM,UC Berkeley,EAL Library,EAL,14,21
+12/11/19 8:00 PM,UC Berkeley,EART Library,Earth North,1,0
+12/11/19 8:00 PM,UC Berkeley,EART Library,Earth South,0,1
+12/11/19 8:00 PM,UC Berkeley,ENGI Library,ENGI,109,76
+12/11/19 8:00 PM,UC Berkeley,ENVI Library,ENVI,67,56
+12/11/19 8:00 PM,UC Berkeley,GRDS Library,GRAD,3,6
+12/11/19 8:00 PM,UC Berkeley,HAAS Library,HAAS 2F,58,70
+12/11/19 8:00 PM,UC Berkeley,HAAS Library,HAAS 3F,25,21
+12/11/19 8:00 PM,UC Berkeley,MATH Library,MATH,0,0
+12/11/19 8:00 PM,UC Berkeley,MOFF Library,Moffit Entry,271,5
+12/11/19 8:00 PM,UC Berkeley,MOFF Library,Moffit Exit,1,207
+12/11/19 8:00 PM,UC Berkeley,MOFF Library,Moffitt 4th,173,118
+12/11/19 8:00 PM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 8:00 PM,UC Berkeley,MUSI,MUSI,3,27
+12/11/19 8:00 PM,UC Berkeley,NEWS Library,News,0,0
+12/11/19 8:00 PM,UC Berkeley,OPTO Library,OPTO,1,1
+12/11/19 8:00 PM,UC Berkeley,PHYS Library,PHYS,2,3
+12/11/19 8:00 PM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 8:00 PM,UC Berkeley,SOCR Library,SOCR,0,0
+12/11/19 9:00 PM,,,TEST,0,0
+12/11/19 9:00 PM,UC Berkeley,AHC Library,AHC Back,1,2
+12/11/19 9:00 PM,UC Berkeley,AHC Library,AHC Front,1,2
+12/11/19 9:00 PM,UC Berkeley,ANTH Library,ANTH,0,0
+12/11/19 9:00 PM,UC Berkeley,BANC Library,Bancroft,0,0
+12/11/19 9:00 PM,UC Berkeley,BIOS Library,VLSB1,14,36
+12/11/19 9:00 PM,UC Berkeley,BIOS Library,VLSB2,9,8
+12/11/19 9:00 PM,UC Berkeley,CHEM Library,CHEM,7,6
+12/11/19 9:00 PM,UC Berkeley,DOE Library,Doe North,16,70
+12/11/19 9:00 PM,UC Berkeley,DOE Library,Doe South,15,57
+12/11/19 9:00 PM,UC Berkeley,DOE STACKS,Moffit Corridor,196,194
+12/11/19 9:00 PM,UC Berkeley,DOE STACKS,Stacks East,24,6
+12/11/19 9:00 PM,UC Berkeley,EAL Library,EAL,4,22
+12/11/19 9:00 PM,UC Berkeley,EART Library,Earth North,0,0
+12/11/19 9:00 PM,UC Berkeley,EART Library,Earth South,0,0
+12/11/19 9:00 PM,UC Berkeley,ENGI Library,ENGI,108,121
+12/11/19 9:00 PM,UC Berkeley,ENVI Library,ENVI,65,67
+12/11/19 9:00 PM,UC Berkeley,GRDS Library,GRAD,0,6
+12/11/19 9:00 PM,UC Berkeley,HAAS Library,HAAS 2F,31,53
+12/11/19 9:00 PM,UC Berkeley,HAAS Library,HAAS 3F,20,25
+12/11/19 9:00 PM,UC Berkeley,MATH Library,MATH,0,0
+12/11/19 9:00 PM,UC Berkeley,MOFF Library,Moffit Entry,288,2
+12/11/19 9:00 PM,UC Berkeley,MOFF Library,Moffit Exit,0,278
+12/11/19 9:00 PM,UC Berkeley,MOFF Library,Moffitt 4th,133,124
+12/11/19 9:00 PM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 9:00 PM,UC Berkeley,MUSI,MUSI,0,0
+12/11/19 9:00 PM,UC Berkeley,NEWS Library,News,0,0
+12/11/19 9:00 PM,UC Berkeley,OPTO Library,OPTO,0,6
+12/11/19 9:00 PM,UC Berkeley,PHYS Library,PHYS,1,0
+12/11/19 9:00 PM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 9:00 PM,UC Berkeley,SOCR Library,SOCR,0,1
+12/11/19 10:00 PM,,,TEST,0,0
+12/11/19 10:00 PM,UC Berkeley,AHC Library,AHC Back,0,0
+12/11/19 10:00 PM,UC Berkeley,AHC Library,AHC Front,0,0
+12/11/19 10:00 PM,UC Berkeley,ANTH Library,ANTH,0,0
+12/11/19 10:00 PM,UC Berkeley,BANC Library,Bancroft,0,0
+12/11/19 10:00 PM,UC Berkeley,BIOS Library,VLSB1,2,38
+12/11/19 10:00 PM,UC Berkeley,BIOS Library,VLSB2,4,25
+12/11/19 10:00 PM,UC Berkeley,CHEM Library,CHEM,2,3
+12/11/19 10:00 PM,UC Berkeley,DOE Library,Doe North,0,0
+12/11/19 10:00 PM,UC Berkeley,DOE Library,Doe South,2,2
+12/11/19 10:00 PM,UC Berkeley,DOE STACKS,Moffit Corridor,180,140
+12/11/19 10:00 PM,UC Berkeley,DOE STACKS,Stacks East,4,0
+12/11/19 10:00 PM,UC Berkeley,EAL Library,EAL,1,37
+12/11/19 10:00 PM,UC Berkeley,EART Library,Earth North,0,0
+12/11/19 10:00 PM,UC Berkeley,EART Library,Earth South,0,0
+12/11/19 10:00 PM,UC Berkeley,ENGI Library,ENGI,70,80
+12/11/19 10:00 PM,UC Berkeley,ENVI Library,ENVI,29,70
+12/11/19 10:00 PM,UC Berkeley,GRDS Library,GRAD,0,0
+12/11/19 10:00 PM,UC Berkeley,HAAS Library,HAAS 2F,22,59
+12/11/19 10:00 PM,UC Berkeley,HAAS Library,HAAS 3F,6,15
+12/11/19 10:00 PM,UC Berkeley,MATH Library,MATH,2,3
+12/11/19 10:00 PM,UC Berkeley,MOFF Library,Moffit Entry,212,5
+12/11/19 10:00 PM,UC Berkeley,MOFF Library,Moffit Exit,0,240
+12/11/19 10:00 PM,UC Berkeley,MOFF Library,Moffitt 4th,93,119
+12/11/19 10:00 PM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 10:00 PM,UC Berkeley,MUSI,MUSI,0,0
+12/11/19 10:00 PM,UC Berkeley,NEWS Library,News,0,0
+12/11/19 10:00 PM,UC Berkeley,OPTO Library,OPTO,0,0
+12/11/19 10:00 PM,UC Berkeley,PHYS Library,PHYS,0,0
+12/11/19 10:00 PM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 10:00 PM,UC Berkeley,SOCR Library,SOCR,2,0
+12/11/19 11:00 PM,,,TEST,0,0
+12/11/19 11:00 PM,UC Berkeley,AHC Library,AHC Back,0,0
+12/11/19 11:00 PM,UC Berkeley,AHC Library,AHC Front,0,0
+12/11/19 11:00 PM,UC Berkeley,ANTH Library,ANTH,0,0
+12/11/19 11:00 PM,UC Berkeley,BANC Library,Bancroft,0,0
+12/11/19 11:00 PM,UC Berkeley,BIOS Library,VLSB1,0,0
+12/11/19 11:00 PM,UC Berkeley,BIOS Library,VLSB2,0,0
+12/11/19 11:00 PM,UC Berkeley,CHEM Library,CHEM,0,1
+12/11/19 11:00 PM,UC Berkeley,DOE Library,Doe North,1,1
+12/11/19 11:00 PM,UC Berkeley,DOE Library,Doe South,5,5
+12/11/19 11:00 PM,UC Berkeley,DOE STACKS,Moffit Corridor,193,74
+12/11/19 11:00 PM,UC Berkeley,DOE STACKS,Stacks East,0,0
+12/11/19 11:00 PM,UC Berkeley,EAL Library,EAL,0,0
+12/11/19 11:00 PM,UC Berkeley,EART Library,Earth North,0,0
+12/11/19 11:00 PM,UC Berkeley,EART Library,Earth South,0,0
+12/11/19 11:00 PM,UC Berkeley,ENGI Library,ENGI,24,97
+12/11/19 11:00 PM,UC Berkeley,ENVI Library,ENVI,13,44
+12/11/19 11:00 PM,UC Berkeley,GRDS Library,GRAD,0,0
+12/11/19 11:00 PM,UC Berkeley,HAAS Library,HAAS 2F,9,44
+12/11/19 11:00 PM,UC Berkeley,HAAS Library,HAAS 3F,7,13
+12/11/19 11:00 PM,UC Berkeley,MATH Library,MATH,0,0
+12/11/19 11:00 PM,UC Berkeley,MOFF Library,Moffit Entry,124,1
+12/11/19 11:00 PM,UC Berkeley,MOFF Library,Moffit Exit,1,260
+12/11/19 11:00 PM,UC Berkeley,MOFF Library,Moffitt 4th,84,162
+12/11/19 11:00 PM,UC Berkeley,MORR Library,Morrison,0,0
+12/11/19 11:00 PM,UC Berkeley,MUSI,MUSI,0,0
+12/11/19 11:00 PM,UC Berkeley,NEWS Library,News,0,0
+12/11/19 11:00 PM,UC Berkeley,OPTO Library,OPTO,0,0
+12/11/19 11:00 PM,UC Berkeley,PHYS Library,PHYS,0,1
+12/11/19 11:00 PM,UC Berkeley,SEAL Library,SEAL,0,0
+12/11/19 11:00 PM,UC Berkeley,SOCR Library,SOCR,2,0
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
