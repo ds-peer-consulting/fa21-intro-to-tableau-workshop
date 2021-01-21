@@ -1,12 +1,8 @@
 # Introduction to Tableau Workshop
 By: Vincent Lao, Jillian Criscuolo, Samantha Tang, and Gary Kwong
-Workshop Date: 1/1/11
+Workshop Date: 1/28/21
 
 ## Workshop Goal(s): 
-1.
-2. 
-3.
-
-## For UC Berkeley Students: [Datahub Link]()
-
-## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)]()
+1. Be comfortable with starting a new workbook from scratch and the interface.
+2. Create and customize visualizations that can incorporate filters and marks.
+3. Use worksheets to construct a dashboard with filter actions.
