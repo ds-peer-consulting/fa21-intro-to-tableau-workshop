@@ -8,6 +8,6 @@ Workshop Date: 1/28/21
 3. Use worksheets to construct a dashboard with filter actions.
 
 To download our Tableau workbook/data:
-1. Click on the file
+1. Click on the file.
 2. Click `Download` if you have the option. 
     - If you don't have the option, click `Raw`, then save the page, and it should open your file explorer with the file in the correct format (twbx/csv).
